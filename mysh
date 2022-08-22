@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+# 
+
+echo -e "\t\033[33mThe kenel is $(uname -r)"
